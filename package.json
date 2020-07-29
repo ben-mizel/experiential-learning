@@ -1,0 +1,28 @@
+{
+  "name": "experiential-learning",
+  "version": "1.0.0",
+  "description": "## Ordered List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-mizel/experiential-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-mizel/experiential-learning/issues"
+  },
+  "homepage": "https://github.com/ben-mizel/experiential-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.44.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
